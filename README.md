@@ -30,4 +30,4 @@
  
  - No corpo do programa, antes de qualquer coisa, utilizar: #include "proroach.h"
  
- - E pronto! Para consultar a sintaxe, consulte o manual(ainda em desenvolvimento) em PDF.
+ - E pronto! Toda referência da sintaxe está no manual(ainda em desenvolvimento) em PDF.
