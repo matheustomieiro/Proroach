@@ -20,6 +20,8 @@ void printVector(char type, void *vet, int elem);
 #define PALAVRA char
 #define DE [
 #define ELEMENTOS ]
+#define INICIO_CONJUNTO {
+#define FINAL_CONJUNTO }
 
 /*Definindo funcao main*/
 #define INICIAR int
