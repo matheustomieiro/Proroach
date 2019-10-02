@@ -1,7 +1,7 @@
 # Proroach
 ** Header de macros para linguagem C que visa o ensino de programação para crianças ou leigos.
 
-** Objetivos: **
+  **Objetivos:**
 
   - O objetivo deste projeto é prover um suporte para o ensino de programação para crianças ou leigos.
   
