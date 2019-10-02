@@ -23,3 +23,11 @@
   **Validade do uso**
     
   - Particularmente, sou do tipo que acredita que não é a sintaxe - mas todo o conceito de programar, a lógica envolvida, etc - que são fundamentais para quem está aprendendo. A transição suave para C, será util quando feita em algum momento, para dar inicio a estudos em conceitos mais amplos e profundos, como o uso de ponteiros, encadeamento, algoritmos de ordenação, etc.
+
+**COMO USAR:**
+
+ - Basta obter o header (Proroach.h), e coloca-lo junto ao arquivo que contém o programa.
+ 
+ - No corpo do programa, antes de qualquer coisa, utilizar: #include "proroach.h"
+ 
+ - E pronto! Para consultar a sintaxe, consulte o manual(ainda em desenvolvimento) em PDF.
