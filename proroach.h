@@ -36,8 +36,8 @@
 /*Definindo funcao main*/
 #define MAIN int main()
 #define FINALIZAR return
-#define SEM_ERRO 0;
-#define COM_ERRO 1;
+#define SEM_ERRO 0
+#define COM_ERRO 1
 
 /*Definindo estruturas de comparacao*/
 #define SE if(
